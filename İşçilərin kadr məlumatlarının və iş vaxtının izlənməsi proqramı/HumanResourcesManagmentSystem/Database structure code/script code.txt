@@ -1,0 +1,23 @@
+CREATE DATABASE HumanResurceDB
+
+USE HumanResurceDB
+
+CREATE TABLE tblPersonal(
+ Id int primary key identity,
+ EmployeeNumber int not null,
+ FirstName nvarchar(20) not null,
+ LastName nvarchar(40) not null,
+ DateOfEmployment datetime2 not null,
+ Adress nvarchar(100) not null,
+ Position nvarchar(50) not null,
+ SalaryRate decimal not null,
+ WorkingMinutesInMonth int 
+)   
+
+CREATE TABLE tblWorktime(
+ Id int primary key identity,
+ EmployeeNumber int not null,
+ [DayOfMonth] int not null,
+ TimeOfEntry datetime2 not null,
+ TimeOfExit datetime2 not null
+)

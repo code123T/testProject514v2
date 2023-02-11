@@ -1,0 +1,419 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "HumanResourcesManagmentSystem/1.0.0": {
+        "dependencies": {
+          "ConsoleTables": "2.4.2",
+          "ConsoleTools": "1.1.1",
+          "System.Data.SqlClient": "4.8.3"
+        },
+        "runtime": {
+          "HumanResourcesManagmentSystem.dll": {}
+        }
+      },
+      "ConsoleTables/2.4.2": {
+        "dependencies": {
+          "System.Reflection.TypeExtensions": "4.3.0"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/ConsoleTables.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.4.2.0"
+          }
+        }
+      },
+      "ConsoleTools/1.1.1": {
+        "dependencies": {
+          "ConsoleTools.Controls": "1.1.0",
+          "ConsoleTools.Controls.Menus": "1.1.0",
+          "ConsoleTools.Controls.Spinners": "1.1.0",
+          "ConsoleTools.Controls.Tables": "1.1.0",
+          "ConsoleTools.Core": "1.1.0"
+        }
+      },
+      "ConsoleTools.Controls/1.1.0": {
+        "dependencies": {
+          "ConsoleTools.Core": "1.1.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/DustInTheWind.ConsoleTools.Controls.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.0.0"
+          }
+        },
+        "resources": {
+          "lib/netstandard2.0/fr/DustInTheWind.ConsoleTools.Controls.resources.dll": {
+            "locale": "fr"
+          },
+          "lib/netstandard2.0/ro/DustInTheWind.ConsoleTools.Controls.resources.dll": {
+            "locale": "ro"
+          }
+        }
+      },
+      "ConsoleTools.Controls.Menus/1.1.0": {
+        "dependencies": {
+          "ConsoleTools.Core": "1.1.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/DustInTheWind.ConsoleTools.Controls.Menus.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.0.0"
+          }
+        },
+        "resources": {
+          "lib/netstandard2.0/fr/DustInTheWind.ConsoleTools.Controls.Menus.resources.dll": {
+            "locale": "fr"
+          },
+          "lib/netstandard2.0/ro/DustInTheWind.ConsoleTools.Controls.Menus.resources.dll": {
+            "locale": "ro"
+          }
+        }
+      },
+      "ConsoleTools.Controls.Spinners/1.1.0": {
+        "dependencies": {
+          "ConsoleTools.Core": "1.1.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/DustInTheWind.ConsoleTools.Controls.Spinners.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.0.0"
+          }
+        },
+        "resources": {
+          "lib/netstandard2.0/fr/DustInTheWind.ConsoleTools.Controls.Spinners.resources.dll": {
+            "locale": "fr"
+          },
+          "lib/netstandard2.0/ro/DustInTheWind.ConsoleTools.Controls.Spinners.resources.dll": {
+            "locale": "ro"
+          }
+        }
+      },
+      "ConsoleTools.Controls.Tables/1.1.0": {
+        "dependencies": {
+          "ConsoleTools.Core": "1.1.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/DustInTheWind.ConsoleTools.Controls.Tables.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.0.0"
+          }
+        }
+      },
+      "ConsoleTools.Core/1.1.0": {
+        "runtime": {
+          "lib/netstandard2.0/DustInTheWind.ConsoleTools.Core.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.0.0"
+          }
+        }
+      },
+      "Microsoft.NETCore.Platforms/3.1.0": {},
+      "Microsoft.NETCore.Targets/1.1.0": {},
+      "Microsoft.Win32.Registry/4.7.0": {
+        "dependencies": {
+          "System.Security.AccessControl": "4.7.0",
+          "System.Security.Principal.Windows": "4.7.0"
+        }
+      },
+      "runtime.native.System.Data.SqlClient.sni/4.7.0": {
+        "dependencies": {
+          "runtime.win-arm64.runtime.native.System.Data.SqlClient.sni": "4.4.0",
+          "runtime.win-x64.runtime.native.System.Data.SqlClient.sni": "4.4.0",
+          "runtime.win-x86.runtime.native.System.Data.SqlClient.sni": "4.4.0"
+        }
+      },
+      "runtime.win-arm64.runtime.native.System.Data.SqlClient.sni/4.4.0": {
+        "runtimeTargets": {
+          "runtimes/win-arm64/native/sni.dll": {
+            "rid": "win-arm64",
+            "assetType": "native",
+            "fileVersion": "4.6.25512.1"
+          }
+        }
+      },
+      "runtime.win-x64.runtime.native.System.Data.SqlClient.sni/4.4.0": {
+        "runtimeTargets": {
+          "runtimes/win-x64/native/sni.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "4.6.25512.1"
+          }
+        }
+      },
+      "runtime.win-x86.runtime.native.System.Data.SqlClient.sni/4.4.0": {
+        "runtimeTargets": {
+          "runtimes/win-x86/native/sni.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "4.6.25512.1"
+          }
+        }
+      },
+      "System.Data.SqlClient/4.8.3": {
+        "dependencies": {
+          "Microsoft.Win32.Registry": "4.7.0",
+          "System.Security.Principal.Windows": "4.7.0",
+          "runtime.native.System.Data.SqlClient.sni": "4.7.0"
+        },
+        "runtime": {
+          "lib/netcoreapp2.1/System.Data.SqlClient.dll": {
+            "assemblyVersion": "4.6.1.3",
+            "fileVersion": "4.700.21.41603"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll": {
+            "rid": "unix",
+            "assetType": "runtime",
+            "assemblyVersion": "4.6.1.3",
+            "fileVersion": "4.700.21.41603"
+          },
+          "runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.6.1.3",
+            "fileVersion": "4.700.21.41603"
+          }
+        }
+      },
+      "System.IO/4.3.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.1.0",
+          "Microsoft.NETCore.Targets": "1.1.0",
+          "System.Runtime": "4.3.0",
+          "System.Text.Encoding": "4.3.0",
+          "System.Threading.Tasks": "4.3.0"
+        }
+      },
+      "System.Reflection/4.3.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.1.0",
+          "Microsoft.NETCore.Targets": "1.1.0",
+          "System.IO": "4.3.0",
+          "System.Reflection.Primitives": "4.3.0",
+          "System.Runtime": "4.3.0"
+        }
+      },
+      "System.Reflection.Primitives/4.3.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.1.0",
+          "Microsoft.NETCore.Targets": "1.1.0",
+          "System.Runtime": "4.3.0"
+        }
+      },
+      "System.Reflection.TypeExtensions/4.3.0": {
+        "dependencies": {
+          "System.Reflection": "4.3.0",
+          "System.Runtime": "4.3.0"
+        }
+      },
+      "System.Runtime/4.3.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.1.0",
+          "Microsoft.NETCore.Targets": "1.1.0"
+        }
+      },
+      "System.Security.AccessControl/4.7.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.1.0",
+          "System.Security.Principal.Windows": "4.7.0"
+        }
+      },
+      "System.Security.Principal.Windows/4.7.0": {},
+      "System.Text.Encoding/4.3.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.1.0",
+          "Microsoft.NETCore.Targets": "1.1.0",
+          "System.Runtime": "4.3.0"
+        }
+      },
+      "System.Threading.Tasks/4.3.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.1.0",
+          "Microsoft.NETCore.Targets": "1.1.0",
+          "System.Runtime": "4.3.0"
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HumanResourcesManagmentSystem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ConsoleTables/2.4.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0SRFOWYCgFQ0RfAMof2DsGEJHI2YKquCA4X26kKyuG+MG+/2R3NRgRVEqXDMU7eVP69MGDzb1eg4i3/APlIfQg==",
+      "path": "consoletables/2.4.2",
+      "hashPath": "consoletables.2.4.2.nupkg.sha512"
+    },
+    "ConsoleTools/1.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-yVbN1achbqcc6dQTwwfWBWeyPPzIJOhtpxOF9yURuJoWXNU3Q9Rcl4y5TTH0ukb8ya11hLzXDU9zIOpPgQU19A==",
+      "path": "consoletools/1.1.1",
+      "hashPath": "consoletools.1.1.1.nupkg.sha512"
+    },
+    "ConsoleTools.Controls/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-K7cLJvA0teDdWpK9Yua/J4mnX5cJWNPqL7HBhWIZHB4HnHRL2fMZ8CFZQDD8LFOdb+ljn8knss8daA1LJIi46g==",
+      "path": "consoletools.controls/1.1.0",
+      "hashPath": "consoletools.controls.1.1.0.nupkg.sha512"
+    },
+    "ConsoleTools.Controls.Menus/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-nNZnXM3uFfPBvJ0FpSg544MCv9CIxzVagOacgNupkJlUoTOsOYe1/mtJ9AX0QxjqHfUhxvyY+4oTZE5ZcTh6sQ==",
+      "path": "consoletools.controls.menus/1.1.0",
+      "hashPath": "consoletools.controls.menus.1.1.0.nupkg.sha512"
+    },
+    "ConsoleTools.Controls.Spinners/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-SLd2vurCF/60OHYNsQk3v+QsdlRd4F9BHFwt0AqvIDSXOsKUYu++ThH/uvMz6QEoZ2E0u9MXnTnJSkBDddjLvw==",
+      "path": "consoletools.controls.spinners/1.1.0",
+      "hashPath": "consoletools.controls.spinners.1.1.0.nupkg.sha512"
+    },
+    "ConsoleTools.Controls.Tables/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ex7wfDvBakQ95QVtxLKnR/2zzFaccFrPyomNOeDo2EOkwIpTn5uG75AKJduqQyC/XDwNgvfiad4lot8XGcfH9Q==",
+      "path": "consoletools.controls.tables/1.1.0",
+      "hashPath": "consoletools.controls.tables.1.1.0.nupkg.sha512"
+    },
+    "ConsoleTools.Core/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/WQZqJGiVdlxzFidQ1IckKNuO1TkKRVDNaVXYi4qZHV8JehE5aOqfS2zEcq4MqCEQtAWfbcgqn8V4HZe3L+8Qw==",
+      "path": "consoletools.core/1.1.0",
+      "hashPath": "consoletools.core.1.1.0.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/3.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-z7aeg8oHln2CuNulfhiLYxCVMPEwBl3rzicjvIX+4sUuCwvXw5oXQEtbiU2c0z4qYL5L3Kmx0mMA/+t/SbY67w==",
+      "path": "microsoft.netcore.platforms/3.1.0",
+      "hashPath": "microsoft.netcore.platforms.3.1.0.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Targets/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-aOZA3BWfz9RXjpzt0sRJJMjAscAUm3Hoa4UWAfceV9UTYxgwZ1lZt5nO2myFf+/jetYQo4uTP7zS8sJY67BBxg==",
+      "path": "microsoft.netcore.targets/1.1.0",
+      "hashPath": "microsoft.netcore.targets.1.1.0.nupkg.sha512"
+    },
+    "Microsoft.Win32.Registry/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KSrRMb5vNi0CWSGG1++id2ZOs/1QhRqROt+qgbEAdQuGjGrFcl4AOl4/exGPUYz2wUnU42nvJqon1T3U0kPXLA==",
+      "path": "microsoft.win32.registry/4.7.0",
+      "hashPath": "microsoft.win32.registry.4.7.0.nupkg.sha512"
+    },
+    "runtime.native.System.Data.SqlClient.sni/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9kyFSIdN3T0qjDQ2R0HRXYIhS3l5psBzQi6qqhdLz+SzFyEy4sVxNOke+yyYv8Cu8rPER12c3RDjLT8wF3WBYQ==",
+      "path": "runtime.native.system.data.sqlclient.sni/4.7.0",
+      "hashPath": "runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512"
+    },
+    "runtime.win-arm64.runtime.native.System.Data.SqlClient.sni/4.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LbrynESTp3bm5O/+jGL8v0Qg5SJlTV08lpIpFesXjF6uGNMWqFnUQbYBJwZTeua6E/Y7FIM1C54Ey1btLWupdg==",
+      "path": "runtime.win-arm64.runtime.native.system.data.sqlclient.sni/4.4.0",
+      "hashPath": "runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512"
+    },
+    "runtime.win-x64.runtime.native.System.Data.SqlClient.sni/4.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-38ugOfkYJqJoX9g6EYRlZB5U2ZJH51UP8ptxZgdpS07FgOEToV+lS11ouNK2PM12Pr6X/PpT5jK82G3DwH/SxQ==",
+      "path": "runtime.win-x64.runtime.native.system.data.sqlclient.sni/4.4.0",
+      "hashPath": "runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512"
+    },
+    "runtime.win-x86.runtime.native.System.Data.SqlClient.sni/4.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YhEdSQUsTx+C8m8Bw7ar5/VesXvCFMItyZF7G1AUY+OM0VPZUOeAVpJ4Wl6fydBGUYZxojTDR3I6Bj/+BPkJNA==",
+      "path": "runtime.win-x86.runtime.native.system.data.sqlclient.sni/4.4.0",
+      "hashPath": "runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512"
+    },
+    "System.Data.SqlClient/4.8.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-yERfVLXAY0QbylAgaGLByYN0hFxX28aeEQ0hUgJO+Ntn1AfmWl5HHUoYJA0Yl9HhIUUJHVaS/Sw/RLZr5aaC+A==",
+      "path": "system.data.sqlclient/4.8.3",
+      "hashPath": "system.data.sqlclient.4.8.3.nupkg.sha512"
+    },
+    "System.IO/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3qjaHvxQPDpSOYICjUoTsmoq5u6QJAFRUITgeT/4gqkF1bajbSmb1kwSxEA8AHlofqgcKJcM8udgieRNhaJ5Cg==",
+      "path": "system.io/4.3.0",
+      "hashPath": "system.io.4.3.0.nupkg.sha512"
+    },
+    "System.Reflection/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KMiAFoW7MfJGa9nDFNcfu+FpEdiHpWgTcS2HdMpDvt9saK3y/G4GwprPyzqjFH9NTaGPQeWNHU+iDlDILj96aQ==",
+      "path": "system.reflection/4.3.0",
+      "hashPath": "system.reflection.4.3.0.nupkg.sha512"
+    },
+    "System.Reflection.Primitives/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5RXItQz5As4xN2/YUDxdpsEkMhvw3e6aNveFXUn4Hl/udNTCNhnKp8lT9fnc3MhvGKh1baak5CovpuQUXHAlIA==",
+      "path": "system.reflection.primitives/4.3.0",
+      "hashPath": "system.reflection.primitives.4.3.0.nupkg.sha512"
+    },
+    "System.Reflection.TypeExtensions/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7u6ulLcZbyxB5Gq0nMkQttcdBTx57ibzw+4IOXEfR+sXYQoHvjW5LTLyNr8O22UIMrqYbchJQJnos4eooYzYJA==",
+      "path": "system.reflection.typeextensions/4.3.0",
+      "hashPath": "system.reflection.typeextensions.4.3.0.nupkg.sha512"
+    },
+    "System.Runtime/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JufQi0vPQ0xGnAczR13AUFglDyVYt4Kqnz1AZaiKZ5+GICq0/1MH/mO/eAJHt/mHW1zjKBJd7kV26SrxddAhiw==",
+      "path": "system.runtime/4.3.0",
+      "hashPath": "system.runtime.4.3.0.nupkg.sha512"
+    },
+    "System.Security.AccessControl/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JECvTt5aFF3WT3gHpfofL2MNNP6v84sxtXxpqhLBCcDRzqsPBmHhQ6shv4DwwN2tRlzsUxtb3G9M3763rbXKDg==",
+      "path": "system.security.accesscontrol/4.7.0",
+      "hashPath": "system.security.accesscontrol.4.7.0.nupkg.sha512"
+    },
+    "System.Security.Principal.Windows/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ojD0PX0XhneCsUbAZVKdb7h/70vyYMDYs85lwEI+LngEONe/17A0cFaRFqZU+sOEidcVswYWikYOQ9PPfjlbtQ==",
+      "path": "system.security.principal.windows/4.7.0",
+      "hashPath": "system.security.principal.windows.4.7.0.nupkg.sha512"
+    },
+    "System.Text.Encoding/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-BiIg+KWaSDOITze6jGQynxg64naAPtqGHBwDrLaCtixsa5bKiR8dpPOHA7ge3C0JJQizJE+sfkz1wV+BAKAYZw==",
+      "path": "system.text.encoding/4.3.0",
+      "hashPath": "system.text.encoding.4.3.0.nupkg.sha512"
+    },
+    "System.Threading.Tasks/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LbSxKEdOUhVe8BezB/9uOGGppt+nZf6e1VFyw6v3DN6lqitm0OSn2uXMOdtP0M3W4iMcqcivm2J6UgqiwwnXiA==",
+      "path": "system.threading.tasks/4.3.0",
+      "hashPath": "system.threading.tasks.4.3.0.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,93 @@
+C:\Users\Siyaset\Desktop\HR\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\bin\Debug\net5.0\HumanResourcesManagmentSystem.exe
+C:\Users\Siyaset\Desktop\HR\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\bin\Debug\net5.0\HumanResourcesManagmentSystem.deps.json
+C:\Users\Siyaset\Desktop\HR\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\bin\Debug\net5.0\HumanResourcesManagmentSystem.runtimeconfig.json
+C:\Users\Siyaset\Desktop\HR\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\bin\Debug\net5.0\HumanResourcesManagmentSystem.runtimeconfig.dev.json
+C:\Users\Siyaset\Desktop\HR\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\bin\Debug\net5.0\HumanResourcesManagmentSystem.dll
+C:\Users\Siyaset\Desktop\HR\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\bin\Debug\net5.0\ref\HumanResourcesManagmentSystem.dll
+C:\Users\Siyaset\Desktop\HR\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\bin\Debug\net5.0\HumanResourcesManagmentSystem.pdb
+C:\Users\Siyaset\Desktop\HR\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\obj\Debug\net5.0\HumanResourcesManagmentSystem.csproj.AssemblyReference.cache
+C:\Users\Siyaset\Desktop\HR\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\obj\Debug\net5.0\HumanResourcesManagmentSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Siyaset\Desktop\HR\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\obj\Debug\net5.0\HumanResourcesManagmentSystem.AssemblyInfoInputs.cache
+C:\Users\Siyaset\Desktop\HR\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\obj\Debug\net5.0\HumanResourcesManagmentSystem.AssemblyInfo.cs
+C:\Users\Siyaset\Desktop\HR\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\obj\Debug\net5.0\HumanResourcesManagmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\Siyaset\Desktop\HR\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\obj\Debug\net5.0\HumanResourcesManagmentSystem.dll
+C:\Users\Siyaset\Desktop\HR\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\obj\Debug\net5.0\ref\HumanResourcesManagmentSystem.dll
+C:\Users\Siyaset\Desktop\HR\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\obj\Debug\net5.0\HumanResourcesManagmentSystem.pdb
+C:\Users\Siyaset\Desktop\HR\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\obj\Debug\net5.0\HumanResourcesManagmentSystem.genruntimeconfig.cache
+C:\Users\Siyaset\Desktop\HR\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Siyaset\Desktop\HR\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Siyaset\Desktop\HR\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Siyaset\Desktop\HR\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Siyaset\Desktop\HR\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Siyaset\Desktop\HR\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Siyaset\Desktop\HR\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\obj\Debug\net5.0\HumanResourcesManagmentSystem.csproj.CopyComplete
+C:\Users\ASUS\Desktop\HR\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\bin\Debug\net5.0\HumanResourcesManagmentSystem.exe
+C:\Users\ASUS\Desktop\HR\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\bin\Debug\net5.0\HumanResourcesManagmentSystem.deps.json
+C:\Users\ASUS\Desktop\HR\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\bin\Debug\net5.0\HumanResourcesManagmentSystem.runtimeconfig.json
+C:\Users\ASUS\Desktop\HR\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\bin\Debug\net5.0\HumanResourcesManagmentSystem.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\HR\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\bin\Debug\net5.0\HumanResourcesManagmentSystem.dll
+C:\Users\ASUS\Desktop\HR\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\bin\Debug\net5.0\HumanResourcesManagmentSystem.pdb
+C:\Users\ASUS\Desktop\HR\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\HR\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\ASUS\Desktop\HR\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\ASUS\Desktop\HR\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\ASUS\Desktop\HR\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\HR\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\HR\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\obj\Debug\net5.0\HumanResourcesManagmentSystem.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\HR\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\obj\Debug\net5.0\HumanResourcesManagmentSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\HR\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\obj\Debug\net5.0\HumanResourcesManagmentSystem.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\HR\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\obj\Debug\net5.0\HumanResourcesManagmentSystem.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\HR\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\obj\Debug\net5.0\HumanResourcesManagmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\HR\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\obj\Debug\net5.0\HumanResourcesManagmentSystem.csproj.CopyComplete
+C:\Users\ASUS\Desktop\HR\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\obj\Debug\net5.0\HumanResourcesManagmentSystem.dll
+C:\Users\ASUS\Desktop\HR\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\obj\Debug\net5.0\ref\HumanResourcesManagmentSystem.dll
+C:\Users\ASUS\Desktop\HR\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\obj\Debug\net5.0\HumanResourcesManagmentSystem.pdb
+C:\Users\ASUS\Desktop\HR\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\obj\Debug\net5.0\HumanResourcesManagmentSystem.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\HR\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\bin\Debug\net5.0\ConsoleTables.dll
+C:\Users\ASUS\Desktop\HR\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\bin\Debug\net5.0\DustInTheWind.ConsoleTools.Controls.dll
+C:\Users\ASUS\Desktop\HR\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\bin\Debug\net5.0\DustInTheWind.ConsoleTools.Controls.Menus.dll
+C:\Users\ASUS\Desktop\HR\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\bin\Debug\net5.0\DustInTheWind.ConsoleTools.Controls.Spinners.dll
+C:\Users\ASUS\Desktop\HR\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\bin\Debug\net5.0\DustInTheWind.ConsoleTools.Controls.Tables.dll
+C:\Users\ASUS\Desktop\HR\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\bin\Debug\net5.0\DustInTheWind.ConsoleTools.Core.dll
+C:\Users\ASUS\Desktop\HR\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\bin\Debug\net5.0\fr\DustInTheWind.ConsoleTools.Controls.resources.dll
+C:\Users\ASUS\Desktop\HR\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\bin\Debug\net5.0\ro\DustInTheWind.ConsoleTools.Controls.resources.dll
+C:\Users\ASUS\Desktop\HR\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\bin\Debug\net5.0\fr\DustInTheWind.ConsoleTools.Controls.Menus.resources.dll
+C:\Users\ASUS\Desktop\HR\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\bin\Debug\net5.0\ro\DustInTheWind.ConsoleTools.Controls.Menus.resources.dll
+C:\Users\ASUS\Desktop\HR\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\bin\Debug\net5.0\fr\DustInTheWind.ConsoleTools.Controls.Spinners.resources.dll
+C:\Users\ASUS\Desktop\HR\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\bin\Debug\net5.0\ro\DustInTheWind.ConsoleTools.Controls.Spinners.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\bin\Debug\net5.0\HumanResourcesManagmentSystem.exe
+C:\Users\ASUS\Desktop\New folder (2)\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\bin\Debug\net5.0\HumanResourcesManagmentSystem.deps.json
+C:\Users\ASUS\Desktop\New folder (2)\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\bin\Debug\net5.0\HumanResourcesManagmentSystem.runtimeconfig.json
+C:\Users\ASUS\Desktop\New folder (2)\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\bin\Debug\net5.0\HumanResourcesManagmentSystem.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\New folder (2)\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\bin\Debug\net5.0\HumanResourcesManagmentSystem.dll
+C:\Users\ASUS\Desktop\New folder (2)\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\bin\Debug\net5.0\ref\HumanResourcesManagmentSystem.dll
+C:\Users\ASUS\Desktop\New folder (2)\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\bin\Debug\net5.0\HumanResourcesManagmentSystem.pdb
+C:\Users\ASUS\Desktop\New folder (2)\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\bin\Debug\net5.0\ConsoleTables.dll
+C:\Users\ASUS\Desktop\New folder (2)\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\bin\Debug\net5.0\DustInTheWind.ConsoleTools.Controls.dll
+C:\Users\ASUS\Desktop\New folder (2)\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\bin\Debug\net5.0\DustInTheWind.ConsoleTools.Controls.Menus.dll
+C:\Users\ASUS\Desktop\New folder (2)\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\bin\Debug\net5.0\DustInTheWind.ConsoleTools.Controls.Spinners.dll
+C:\Users\ASUS\Desktop\New folder (2)\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\bin\Debug\net5.0\DustInTheWind.ConsoleTools.Controls.Tables.dll
+C:\Users\ASUS\Desktop\New folder (2)\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\bin\Debug\net5.0\DustInTheWind.ConsoleTools.Core.dll
+C:\Users\ASUS\Desktop\New folder (2)\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\New folder (2)\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\bin\Debug\net5.0\fr\DustInTheWind.ConsoleTools.Controls.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\bin\Debug\net5.0\ro\DustInTheWind.ConsoleTools.Controls.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\bin\Debug\net5.0\fr\DustInTheWind.ConsoleTools.Controls.Menus.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\bin\Debug\net5.0\ro\DustInTheWind.ConsoleTools.Controls.Menus.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\bin\Debug\net5.0\fr\DustInTheWind.ConsoleTools.Controls.Spinners.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\bin\Debug\net5.0\ro\DustInTheWind.ConsoleTools.Controls.Spinners.resources.dll
+C:\Users\ASUS\Desktop\New folder (2)\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\ASUS\Desktop\New folder (2)\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\ASUS\Desktop\New folder (2)\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\ASUS\Desktop\New folder (2)\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\New folder (2)\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\New folder (2)\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\obj\Debug\net5.0\HumanResourcesManagmentSystem.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\New folder (2)\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\obj\Debug\net5.0\HumanResourcesManagmentSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\New folder (2)\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\obj\Debug\net5.0\HumanResourcesManagmentSystem.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\New folder (2)\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\obj\Debug\net5.0\HumanResourcesManagmentSystem.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\New folder (2)\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\obj\Debug\net5.0\HumanResourcesManagmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\New folder (2)\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\obj\Debug\net5.0\HumanResourcesManagmentSystem.csproj.CopyComplete
+C:\Users\ASUS\Desktop\New folder (2)\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\obj\Debug\net5.0\HumanResourcesManagmentSystem.dll
+C:\Users\ASUS\Desktop\New folder (2)\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\obj\Debug\net5.0\ref\HumanResourcesManagmentSystem.dll
+C:\Users\ASUS\Desktop\New folder (2)\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\obj\Debug\net5.0\HumanResourcesManagmentSystem.pdb
+C:\Users\ASUS\Desktop\New folder (2)\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\obj\Debug\net5.0\HumanResourcesManagmentSystem.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\HR\HumanResourcesManagmentSystem\HumanResourcesManagmentSystem\bin\Debug\net5.0\ref\HumanResourcesManagmentSystem.dll
