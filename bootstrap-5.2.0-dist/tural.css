@@ -1,0 +1,196 @@
+ul{
+    display: flex;
+    margin: 0 ;
+    padding: 0;
+    width: 0;
+    text-decoration: none;
+    list-style: none;
+    background-color:white;
+}
+li a{
+    display: block;
+    color: black;
+     
+    text-decoration: none;
+    float: top;
+
+}
+.navbar{
+    text-align: center;
+   margin-left: 10px;
+   margin-bottom: 10px;
+   padding: auto;
+    
+}
+
+.navbar1{
+    float:right ;
+
+}
+
+nav ul{
+float: right;
+margin-right: 25px;
+}
+nav ul li{
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 15px;
+}
+nav ul li a{
+    position: relative;
+    color:black;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+nav ul li a:before{
+position: absolute;
+content:'';
+left: 0;
+bottom: 0;
+height: 1px;
+width: 100%;
+transform: scaleX(0);
+transform-origin: right;
+}
+nav ul li a:hover:before{
+    transform: scaleX(10);
+    transform-origin: left;
+}
+.navbar-expand-lg{
+display: flex;
+flex-wrap: inherit;
+align-items: center;
+justify-content: space-between;
+}
+.form-control{
+width:300px;
+height: 30px;
+display: inline;
+}
+.ss-single-selected {
+    background: #fbfafa;
+    -webkit-border-radius: 12px;
+    border-radius: 12px;
+    padding-left: 12px;
+    padding-right: 14px;
+    border: unset;
+    height: 36px;
+}
+.home-page-innerP{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 12px;
+    text-align: center;
+    letter-spacing: .13em;
+    color: #e85826;   
+}
+.header-secondary__container{
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    height: 52px;
+    -webkit-box-align: center;
+    align-items: center;
+}
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+* {
+    font-family: "GraphikLCWeb" !important;
+}
+* {
+    outline: 0;
+}
+.view-all {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 14px;
+    color: #e85826;
+}
+.a {
+    text-decoration: none;
+    cursor: pointer;
+}
+.view-map{
+     
+    display: flex;
+    -webkit-box-pack: right;
+    justify-content: right;
+    -webkit-box-align: right;
+    align-items: right;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 14px;
+    color: #e85826!important;
+    cursor: pointer;
+    padding-right: 10px;
+    text-align: right;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+.a{
+        text-decoration: none;
+        cursor: pointer;
+}
+.restorans-title .view-map svg {
+    width: 20px;
+    height: 20px;
+    margin-right: 14px;
+}
+.card-img-top{
+   
+  border-radius: 50px;
+  margin: 1px;
+}
+.svg:not(:root) {
+    overflow: hidden;
+}
+.icon-map-vector {
+    width: 20px;
+    height: 20px;
+}
+
+ .title-h h2 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 32px;
+    letter-spacing: -.03em;
+    color: #222;
+}
+#progressCarousel {
+    position: relative;
+    width: 481px;
+    height: 428px;
+    -webkit-flex-shrink: 0;
+    -ms-flex-negative: 0;
+    flex-shrink: 0;
+}
+.carousel-indicators {
+    height: min-content !important;
+    height: 0 !important;
+}
+#progressCarousel .carousel-indicators li {
+    height: min-content !important;
+}
+.carousel-item1{
+    width: 481px;
+    height: 470px;
+}
+.carousel-inner{
+border-radius: 50px;
+object-fit: cover;
+
+}
+
+
+
+ 
+ 
