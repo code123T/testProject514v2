@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\repos\EmekHaggi\EmekHaggi\bin\Debug\netcoreapp3.1\EmekHaggi.exe
+C:\Users\lenovo\source\repos\EmekHaggi\EmekHaggi\bin\Debug\netcoreapp3.1\EmekHaggi.deps.json
+C:\Users\lenovo\source\repos\EmekHaggi\EmekHaggi\bin\Debug\netcoreapp3.1\EmekHaggi.runtimeconfig.json
+C:\Users\lenovo\source\repos\EmekHaggi\EmekHaggi\bin\Debug\netcoreapp3.1\EmekHaggi.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\EmekHaggi\EmekHaggi\bin\Debug\netcoreapp3.1\EmekHaggi.dll
+C:\Users\lenovo\source\repos\EmekHaggi\EmekHaggi\bin\Debug\netcoreapp3.1\EmekHaggi.pdb
+C:\Users\lenovo\source\repos\EmekHaggi\EmekHaggi\obj\Debug\netcoreapp3.1\EmekHaggi.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\EmekHaggi\EmekHaggi\obj\Debug\netcoreapp3.1\EmekHaggi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\EmekHaggi\EmekHaggi\obj\Debug\netcoreapp3.1\EmekHaggi.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\EmekHaggi\EmekHaggi\obj\Debug\netcoreapp3.1\EmekHaggi.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\EmekHaggi\EmekHaggi\obj\Debug\netcoreapp3.1\EmekHaggi.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\EmekHaggi\EmekHaggi\obj\Debug\netcoreapp3.1\EmekHaggi.dll
+C:\Users\lenovo\source\repos\EmekHaggi\EmekHaggi\obj\Debug\netcoreapp3.1\EmekHaggi.pdb
+C:\Users\lenovo\source\repos\EmekHaggi\EmekHaggi\obj\Debug\netcoreapp3.1\EmekHaggi.genruntimeconfig.cache
