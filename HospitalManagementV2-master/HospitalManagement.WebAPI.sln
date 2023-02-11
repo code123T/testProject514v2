@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HospitalManagement.WebAPI", "HospitalManagement.WebAPI\HospitalManagement.WebAPI.csproj", "{72111ECD-D335-4937-95DB-7126FA80874C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HospitalMenegment.DAL", "HospitalMenegment.DAL\HospitalMenegment.DAL.csproj", "{8487F8F9-B155-4A1D-AADC-DCAAE1C11794}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72111ECD-D335-4937-95DB-7126FA80874C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72111ECD-D335-4937-95DB-7126FA80874C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72111ECD-D335-4937-95DB-7126FA80874C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72111ECD-D335-4937-95DB-7126FA80874C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8487F8F9-B155-4A1D-AADC-DCAAE1C11794}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8487F8F9-B155-4A1D-AADC-DCAAE1C11794}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8487F8F9-B155-4A1D-AADC-DCAAE1C11794}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8487F8F9-B155-4A1D-AADC-DCAAE1C11794}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BDDD89B-0227-498B-8B63-032975A4FE97}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+C:\Users\99455\Desktop\HospitalManagementV2-master\HospitalMenegment.DAL\obj\Debug\net6.0\HospitalMenegment.DAL.csproj.AssemblyReference.cache
+C:\Users\99455\Desktop\HospitalManagementV2-master\HospitalMenegment.DAL\obj\Debug\net6.0\HospitalMenegment.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99455\Desktop\HospitalManagementV2-master\HospitalMenegment.DAL\obj\Debug\net6.0\HospitalMenegment.DAL.AssemblyInfoInputs.cache
+C:\Users\99455\Desktop\HospitalManagementV2-master\HospitalMenegment.DAL\obj\Debug\net6.0\HospitalMenegment.DAL.AssemblyInfo.cs
+C:\Users\99455\Desktop\HospitalManagementV2-master\HospitalMenegment.DAL\obj\Debug\net6.0\HospitalMenegment.DAL.csproj.CoreCompileInputs.cache

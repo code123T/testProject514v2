@@ -1,0 +1,6 @@
+C:\Users\99455\Desktop\HospitalManagementV2-master\HospitalManagement.WebAPI\obj\Debug\net6.0\HospitalManagement.WebAPI.csproj.AssemblyReference.cache
+C:\Users\99455\Desktop\HospitalManagementV2-master\HospitalManagement.WebAPI\obj\Debug\net6.0\HospitalManagement.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99455\Desktop\HospitalManagementV2-master\HospitalManagement.WebAPI\obj\Debug\net6.0\HospitalManagement.WebAPI.AssemblyInfoInputs.cache
+C:\Users\99455\Desktop\HospitalManagementV2-master\HospitalManagement.WebAPI\obj\Debug\net6.0\HospitalManagement.WebAPI.AssemblyInfo.cs
+C:\Users\99455\Desktop\HospitalManagementV2-master\HospitalManagement.WebAPI\obj\Debug\net6.0\HospitalManagement.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\99455\Desktop\HospitalManagementV2-master\HospitalManagement.WebAPI\obj\Debug\net6.0\HospitalManagement.WebAPI.MvcApplicationPartsAssemblyInfo.cache
